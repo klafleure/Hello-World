@@ -1,1 +1,1 @@
-Hello, Wolrd! I'm new to git.
+Hello, World! I'm new to git.
